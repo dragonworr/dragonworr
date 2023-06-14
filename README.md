@@ -6,7 +6,7 @@
 ### <div align="center">I'm Johnson Lawtin, a Senior Front End Developer👨‍💻 working remotely since 2021🚀</div>  
   
 
-- 🔭 I’m currently working on Okta  
+- 🔭 I’m currently working on Projekt202  
   
 
 - 🌱 I’m currently learning Blockchain and Cybersecurity  
