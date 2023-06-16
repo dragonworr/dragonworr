@@ -18,6 +18,7 @@
 - <ins>⚡ I'd love to develop responsive and semantic front end and sophisticated database design and API</ins>  
   
 
+- <ins>⚡ Please follow me to make my profile more excellent</ins>
 <br/>  
 
 
