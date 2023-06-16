@@ -6,19 +6,19 @@
 ### <div align="center">I'm Johnson Lawtin, a Senior Front End Developer👨‍💻 working remotely since 2021🚀</div>  
   
 
-- 🔭 I’m currently working on Projekt202  
+- 🔭 I’m currently working on Projekt202.  
   
 
-- 🌱 I’m currently learning Blockchain and Cybersecurity  
+- 🌱 I’m currently learning Blockchain and Cybersecurity.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies, especially React  
+- ❓ Ask me about anything related to MERN stack and related technologies, especially React.  
   
 
-- <ins>⚡ I'd love to develop responsive and semantic front end and sophisticated database design and API</ins>  
+- ⚡ I'd love to develop responsive and semantic front end and sophisticated database design and API. 
   
 
-- <ins>⚡ Please follow me to make my profile more excellent</ins>
+- <ins>⚡ Please follow me and star my projects so that I can make my profile even better.</ins>
 <br/>  
 
 
